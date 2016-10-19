@@ -1,0 +1,6 @@
+aasssa
+<<<<<<< HEAD
+zmiana ok
+=======
+kkkkk
+>>>>>>> 196c6662770599bcf98cbbecbffe660fbdb68022
